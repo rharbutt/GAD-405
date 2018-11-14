@@ -164,52 +164,6 @@ function draw() {
   rect(480,105,15,30) // top top
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   //Print a message to the console - to view using Chrome:
   //View > Developer > Developer Tools > Console
   console.log("Rendering...")
