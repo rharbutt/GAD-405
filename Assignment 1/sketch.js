@@ -8,6 +8,8 @@ var boo = false; //starts the program with boo set as false.
 function setup() {
   createCanvas(594, 841); //Creates a blank canvas of 594 by 841 pixels.
   background (255,255,255); //Sets the background colour of the canvas to White.
+  textSize(60)
+  textAlign(LEFT);
   text("Click to Start", 50, 50);//Creates text on the canvas.
   rectMode(CENTER); //Sets the middle of the rectangles to the center.
 
