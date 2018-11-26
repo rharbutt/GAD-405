@@ -1,8 +1,9 @@
 Ronan Harbutt    
 Assignment 1 Creative Coding
 ReadMe File based on Assignment 1 Project
-------
 
+My github Link: https://github.com/rharbutt/GAD-405
+------
 
 The program I have created for this assignment includes a range of skills I have
 learnt over the 5 weeks. My projects code focuses on Organic Motion, Randomness and Functions/Objects.
